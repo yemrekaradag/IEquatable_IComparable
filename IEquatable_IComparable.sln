@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatable_IComparable", "IEquatable_IComparable\IEquatable_IComparable.csproj", "{4F7E67DE-B178-4DB7-883D-5333AEA4092A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7E67DE-B178-4DB7-883D-5333AEA4092A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7E67DE-B178-4DB7-883D-5333AEA4092A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7E67DE-B178-4DB7-883D-5333AEA4092A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7E67DE-B178-4DB7-883D-5333AEA4092A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA39A05C-4C69-4737-BE2C-E777B9D406E6}
+	EndGlobalSection
+EndGlobal
